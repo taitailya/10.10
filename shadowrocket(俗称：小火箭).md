@@ -1,6 +1,6 @@
-请点击：https://id.wohaobang.cn/product/ 
+请点击：<a href="https://id.wohaobang.cn/product/">https://id.wohaobang.cn/product/</a>
 
-可购买别人代购的独享账号，永久不失效。
+可购买别人代购的独享账号，永久不失效（注意买美区的，登陆后是英语。如果你买成了日区，那你登陆后都是日文，看不懂就GG了）。
 
 账号建议只用来登录AppStore，然后在purchased（“已购”的意思）菜单里可以找到卖家帮你在这个账号里买好的shadowrocket(俗称：小火箭)，点击安装或更新，完毕就可以退出AppStore账号，登录会自己的原来的AppleID了。
 
